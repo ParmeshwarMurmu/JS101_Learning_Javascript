@@ -1,11 +1,11 @@
-//Problem 1
+//Problem 1 comment
 let str1 = "Masai School";
 let str2 = "A Transformation In Education";
 console.log(str1);
 console.log(str2);
 
 
-//Problem 2
+//Problem 2 comment
 
 let name = "Parmeshwar Murmu";
 console.log(name);
@@ -14,13 +14,13 @@ console.log(name);
 name = "Sita Rani Murmu";
 console.log(name);
 
-//Problem 3
+//Problem 3 comment
 let name = "Parmeshwar Murmu";
 let age = 23;
 console.log(name, age);
 console.log(typeof(name), typeof(age));
 
-//Problem 4
+//Problem 4 comment
 
 let name = "Rahul";
 let school = "Kerala Public School";
