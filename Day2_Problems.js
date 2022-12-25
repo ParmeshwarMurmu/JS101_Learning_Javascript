@@ -1,4 +1,4 @@
-// Problem
+// Problem 1
 
 console.log("Masai School" +"\n" + "A Transformation in Education");
 
@@ -10,14 +10,14 @@ function multiplyBy50(number) {
 }
 
 
-//Problem 
+//Problem 2
 
 function productOfSix(one, two, three, four, five, six) {
     // Write code here
     console.log(one*two*three*four*five*six);
 }
 
-//Problem
+//Problem 3
 
 function sumOfFive(one, two, three, four, five) {
     // Write code here
@@ -25,7 +25,7 @@ function sumOfFive(one, two, three, four, five) {
 }
 
 
-//Problem
+//Problem 4
 
 function cubeOfNumber(N) {
     // Write code here
@@ -33,7 +33,7 @@ function cubeOfNumber(N) {
     console.log(result);
 }
 
-//Problem
+//Problem 5
 
 function squareAndSum(one, two, three) {
   // Write code here
@@ -41,7 +41,7 @@ function squareAndSum(one, two, three) {
   console.log(result);
 }
 
-//Problem
+//Problem 6
 
 function findX(X) {
     // Write code here
